@@ -5,7 +5,7 @@ local VirtualUser = game:GetService("VirtualUser")
 local Player = Players.LocalPlayer
  
 --// CONFIGURAÇÃO: ID PERMITIDO
-local allowedUserId = 4095731659 -- Substitua pelo seu UserId real
+local allowedUserId = 8129278067 -- Substitua pelo seu UserId real
  
 --// VALIDAÇÃO DE ID
 if Player.UserId ~= allowedUserId then
